@@ -1,4 +1,4 @@
-import soma
+from main import soma
 
 def test_soma():
     assert main.soma(2, 3) == 5
